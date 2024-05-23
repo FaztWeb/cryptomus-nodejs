@@ -1,0 +1,7 @@
+POST http://localhost:3000/checkout
+Content-Type: application/json
+
+{
+    "amount": "1",
+    "currency": "USD"
+}
